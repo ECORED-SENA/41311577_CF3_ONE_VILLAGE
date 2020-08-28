@@ -1,0 +1,74 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion1",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion1"],
+    "path": "pages/intro1.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "guia1",
+    "title": "1. Guía para la ideación de Producto",
+    "breadcrumb": ["Inicio","guia1"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Objetivos de la guía",
+        "anchor": "objetivos1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Preparación",
+        "anchor": "preparacion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Los módulos",
+        "anchor": "modulos"
+      }
+    ]
+  },
+  { 
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion2",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion2"],
+    "path": "pages/intro2.html"
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "guia2",
+    "title": "2. Guía para la elaboración del plan de acción comunitario",
+    "breadcrumb": ["Inicio","guia2"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia2",
+        "title": "Objetivos de la guía",
+        "anchor": "objetivos2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia2",
+        "title": "Conceptos de referencia",
+        "anchor": "conceptos"
+      }
+    ]
+  }
+]
