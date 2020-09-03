@@ -17,7 +17,7 @@
     "id": 2,
     "icon": "fa fa-file-text",
     "slug": "guia1",
-    "title": "1. Guía para la ideación de Producto",
+    "title": "1. Fortalecimiento de líderes OVOP",
     "breadcrumb": ["Inicio","guia1"],
     "path": "pages/1-tema.html",
     "submenu": [
@@ -53,7 +53,7 @@
     "id": 4,
     "icon": "fa fa-file-text",
     "slug": "guia2",
-    "title": "2. Guía para la elaboración del plan de acción comunitario",
+    "title": "2. Elaboración del plan de acción comunitario",
     "breadcrumb": ["Inicio","guia2"],
     "path": "pages/2-tema.html",
     "submenu": [
